@@ -1,0 +1,4 @@
+Nama : Sabda Perdana Hutabarat
+Umur : 20 Tahun
+Stack : Fullstack
+Bahasa Pemrograman : JavaScript
